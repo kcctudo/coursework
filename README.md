@@ -25,3 +25,4 @@
 - run Assignment5_PyViz.ipynb to create a dashboard.  This dashboard holds all different charts for Toronto Real Estate Markets.
 ## How to use the dashboard
 - The dashboard has 5 tabs.  Each tab shows the unique information about Toronto Real Estate Markets.
+[Dashboard sample output](dashboard.png)
